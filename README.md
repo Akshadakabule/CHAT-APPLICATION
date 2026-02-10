@@ -24,7 +24,7 @@ This project helped me understand real-time communication, client–server inter
 - Socket.IO
 - HTML, CSS, JavaScript
 
-#  How to Run:
+ *How to Run:*
   ```bash
   npm install
   node server.js
